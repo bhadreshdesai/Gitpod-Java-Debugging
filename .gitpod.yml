@@ -1,4 +1,4 @@
-image: gitpod/workspace-base
+image: gitpod/workspace-thin
 vscode:
   extensions:
     - vscjava.vscode-java-debug@0.24.0:4bjzZag4ZW2bFcv6qiRCEg==
